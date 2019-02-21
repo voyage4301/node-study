@@ -29,4 +29,4 @@ git config --global user.email "123@163.com"
         - 直接修改config文件
 
 ### 拉取别人的项目 
-    git clone 远程仓库地址
+    git clone 远程仓库地址 122222333333333
